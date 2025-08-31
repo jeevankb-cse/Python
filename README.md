@@ -1,1 +1,1 @@
-This project is a basic things to learn on this language. It was created as part of my journey learning Python programming. The main goal was to build the projects on  my primary coding language . "practice basic data structures and problems".
+This project is a basic things to learn on this language. It was created as part of my journey learning Python programming. The main goal is to build the projects on  my primary coding language . "practice basic data structures and problems".
