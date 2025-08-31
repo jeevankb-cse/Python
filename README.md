@@ -1,1 +1,1 @@
-# Python
+This project is a [short description of what the project is]. It was created as part of my journey learning Python programming. The main goal was to [explain the primary learning objective, e.g., "practice basic data structures and user input"].
