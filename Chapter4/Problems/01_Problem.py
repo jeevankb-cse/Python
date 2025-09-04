@@ -1,4 +1,4 @@
-#Q.Write a program to store seven fruits in a list entered by the user.
+#Q.Write a program to store three fruits in a list entered by the user.
 
 fruits=[]
 f1=input("Enter Fruit name:")
@@ -9,3 +9,4 @@ f3=input("Enter Fruit name:")
 fruits.append(f3)
 
 print(fruits)
+
